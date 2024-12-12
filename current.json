@@ -1,0 +1,11 @@
+[
+  {
+    "id": 3,
+    "title": "Current Event 1",
+    "date": "2024-12-25",
+    "description": "An event happening right now!",
+    "imageURL": "https://example.com/current1.jpg",
+    "linkURL": "https://example.com/info/current1",
+    "isCompleted": false
+  }
+]
