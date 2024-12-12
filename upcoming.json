@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Upcoming Event 1",
+    "date": "2025-01-10",
+    "description": "A future event that's coming soon.",
+    "imageURL": "https://example.com/upcoming1.jpg",
+    "linkURL": "https://example.com/info/upcoming1",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "Upcoming Event 2",
+    "date": "2025-02-20",
+    "description": "Another exciting event on the horizon.",
+    "imageURL": "https://example.com/upcoming2.jpg",
+    "linkURL": "https://example.com/info/upcoming2",
+    "isCompleted": false
+  }
+]
