@@ -3,7 +3,7 @@
     "id": 4,
     "title": "Completed Event 1",
     "startDate": "2024-10-15",
-    "endDate": "2024-10-15",
+    "endDate": "2024-12-11",
     "description": "A past event that has already taken place.",
     "imageURL": "https://example.com/completed1.jpg",
     "links": [
