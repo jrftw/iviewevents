@@ -2,10 +2,17 @@
   {
     "id": 3,
     "title": "Current Event 1",
-    "date": "2024-12-25",
+    "startDate": "2024-12-25",
+    "endDate": "2024-12-25",
     "description": "An event happening right now!",
     "imageURL": "https://example.com/current1.jpg",
-    "linkURL": "https://example.com/info/current1",
+    "links": [
+      {
+        "id": 1,
+        "title": "More Info",
+        "url": "https://example.com/info/current1"
+      }
+    ],
     "isCompleted": false
   }
 ]
