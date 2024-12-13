@@ -1,11 +1,33 @@
 [
   {
     "id": 1,
-    "title": "LIVE Creator Showdown",
-    "startDate": "",
-    "endDate": "",
-    "description": "Rules\n\nOne and done LIVE Matches\nScheduled LIVE Matches are one and done.\nYour opponent must arrive within 15 minutes, or they will be disqualified automatically.\nPlease refrain from making rude comments or engaging in hateful behavior during the match.\nDo not threaten or harass your opponent before the LIVE Match, it's for fun.\nOther Creator Network Members are not required to show up.\nIt is a fun bonding activity to earn more diamonds & meet other agency members!\nNo shows will not be able to participate next time.\nMake an event by: Going to your Profile > Settings > Settings and Privacy > LIVE > LIVE Events > Create event.\nLet your Team know ahead of time.\nWe have the right to post/share your contact information with the scheduled match so you can contact your opponent and vice versa before the LIVE match.\n\nResults will be communicated by Tuesday 6:00PM PST the following week.\n\nReport your score: https://forms.gle/HUCTrbmxZE3UGVL1A\n\nIf your opponent does not show up, report it here (do not contact your manager):\nNO Show Report form: https://forms.gle/zsEWvC8F2SvjcxzBA\n\nThe creator with the highest score each week gets 10,000 Diamonds (must make a minimum of 50,000 diamonds in the match to be eligible for the payout).\n\nIf you put in a quit request, you will be ineligible to participate in events including the LIVE Creator Showdown.\n\nIf your opponent does not show, fill out this form: https://forms.gle/mDjpRWhfwxhM9seTA (Do not spam Discord or your agent)\n\nSIGN UP FORM: https://forms.gle/Rt9ZEJNn7Ng5UnkF6",
-    "imageURL": null,
+    "title": "Event LIVE Creator Showdown",
+    "startDate": "Every Thursday",
+    "endDate": "Every Wednesday",
+    "description": "Rules\n\nOne and done LIVE Matches\nScheduled LIVE Matches are one and done.\nYour opponent must arrive within 15 minutes, or they will be disqualified automatically.\nPlease refrain from making rude comments or engaging in hateful behavior during the match.\nDo not threaten or harass your opponent before the LIVE Match, it's for fun.\nOther Creator Network Members are not required to show up.\nIt is a fun bonding activity to earn more diamonds & meet other agency members!\nNo shows will not be able to participate next time.\nMake an event by: Going to your Profile > Settings > Settings and Privacy > LIVE > LIVE Events > Create event.\nLet your Team know ahead of time.\nWe have the right to post/share your contact information with the scheduled match so you can contact your opponent and vice versa before the LIVE match.\n\nResults will be communicated by Tuesday 6:00PM PST the following week.\n\nReport your score: https://forms.gle/HUCTrbmxZE3UGVL1A\n\nIF YOUR OPPONENT DOES NOT SHOW UP REPORT IT HERE, DO NOT CONTACT YOUR MANAGER\nNO Show Report form: https://forms.gle/zsEWvC8F2SvjcxzBA\n\nThe creator with the highest score each week gets 10,000 Diamonds (Must make a minimum of 50,000 diamonds in the match to be eligible for the payout).\n\nIf you put in a quit request, you will be ineligible to participate in events including LIVE Creator Showdown.\n\nIf your opponent does not show, fill out this form: https://forms.gle/mDjpRWhfwxhM9seTA (Do not spam Discord or your agent)\n\nSIGN UP FORM: https://forms.gle/Rt9ZEJNn7Ng5UnkF6",
+    "imageURL": "https://cdn.discordapp.com/attachments/1232791818530324582/1232799909862965269/your_image.png",
+    "links": [
+      {
+        "id": 1,
+        "title": "Sign Up Form",
+        "url": "https://forms.gle/Rt9ZEJNn7Ng5UnkF6"
+      },
+      {
+        "id": 2,
+        "title": "Report Score",
+        "url": "https://forms.gle/HUCTrbmxZE3UGVL1A"
+      },
+      {
+        "id": 3,
+        "title": "No Show Report",
+        "url": "https://forms.gle/zsEWvC8F2SvjcxzBA"
+      },
+      {
+        "id": 4,
+        "title": "No Show Backup Report",
+        "url": "https://forms.gle/mDjpRWhfwxhM9seTA"
+      }
+    ],
     "isCompleted": false
   }
 ]
