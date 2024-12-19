@@ -40,5 +40,21 @@
       }
     ],
     "isCompleted": false
+  },
+  {
+    "id": 4,
+    "title": "[December 2024] LIVE Fest Host Off",
+    "startDate": "2024-12-11",
+    "endDate": "2025-01-07",
+    "description": "Excited to announce we have a special two-day campaign where YOU can vote to select two creators to host our LIVE Fest US event on January 10, 2025. Don't forget to tune into @tiktoklive_us for our TikTalk LIVE Host Off program December 18, 2025 at 6:00 PM PT to learn more about our nominated hosts!\n\nDates: Wednesday December 11th - Tuesday January 7th\n\nGameplay: Send 1 coin gift to any LIVE room and you will earn 40 votes to vote for our nominated creators!\n\nCampaign Link: https://webcast.tiktok.com/t/ZS682p2JJ/",
+    "imageURL": "",
+    "links": [
+      {
+        "id": 1,
+        "title": "Campaign Link",
+        "url": "https://webcast.tiktok.com/t/ZS682p2JJ/"
+      }
+    ],
+    "isCompleted": false
   }
 ]
