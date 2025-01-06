@@ -1,9 +1,35 @@
 [
   {
+    "id": 3,
+    "title": "[December 2024] Delta Force",
+    "startDate": "2024-12-04",
+    "endDate": "2024-12-25",
+    "description": "Time: 12/4 to 12/25\nQualification: play Delta Force LIVE!\nGameplay (see details in the graphic):\nGo LIVE with more than 10 unique viewers to receive drops of in-game rewards\nRank up the weekly leaderboard for TikTok Swags and diamonds\n1 live min playing Delta Force = 20 points, capped at 8 hours daily\n1 short video Delta Force post tagging #DeltaForce = 2,500 points, capped at 1 post daily\n1 unique LIVE viewer during Delta Force live = 1 point (unlimited)\nReceive diamond rewards based on the accumulated unique viewers playing the game LIVE\nViewers of your Delta Force LIVE can collect in-game rewards based on their engagement\nShort video incentive program & post short videos to receive more in-game rewards",
+    "imageURL": "https://example.com/delta_force.jpg",
+    "links": [
+      {
+        "id": 1,
+        "title": "Download Delta Force Game Launcher",
+        "url": "https://www.playdeltaforce.com/download/DeltaForceMiniloader.official.exe"
+      }
+    ],
+    "isCompleted": true
+  },
+  {
+    "id": 2,
+    "title": "[December 2024] Gallery Gift Swap!",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-08",
+    "description": "From now until December 8th creators can earn Gift Swap cards by lighting up their Gallery Gifts. This is an excellent opportunity to add some fun into Gift Gallery gameplay, especially for those creators who have advanced into Round 3 of Ultimate League (since lit Gallery Gifts are worth 1.5x Ultimate League points😏 )",
+    "imageURL": "https://example.com/gallery_gift_swap.jpg",
+    "links": [],
+    "isCompleted": true
+  },
+  {
     "id": 1,
     "title": "✨ Infinitum LIVE Creator Network Presents: Category Leader Bonus - LIVE Fest ✨",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2024-11-19",
+    "endDate": "2024-12-05",
     "description": "🏅 Top 5 in Any Round: 200,000 Diamonds\n\n🥈 Top 25 in Any Round: 100,000 Diamonds\n\n🥉 Top 100 in Any Round: 50,000 Diamonds\n\n⚠️ Important Note:\nBonus tiers do not stack. Only the highest applicable reward will be awarded per round.\n\n🌟 Stay focused, go LIVE, and conquer your category! Let's make LIVE Fest unforgettable. 💪✨\n\n#InfinitumLIVEFest #CategoryLeaderChallenge",
     "imageURL": "",
     "links": [],
@@ -12,8 +38,8 @@
   {
     "id": 2,
     "title": "✨ Infinitum LIVE Creator Network Presents: LIVE FEST Bonus Diamonds! ✨",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2024-11-19",
+    "endDate": "2024-12-05",
     "description": "Unleash your potential and climb the leaderboard with massive bonus rewards!\n\n🏅 Gold Tier Bonuses\nTop 5 in any round: 100,000 Diamonds\nTop 25 in any round: 50,000 Diamonds\nTop 50 in any round: 25,000 Diamonds\n\n🥈 Silver Tier Bonuses\nTop 5 in any round: 200,000 Diamonds\nTop 25 in any round: 50,000 Diamonds\nTop 50 in any round: 25,000 Diamonds\n\n🥉 Bronze Tier Bonuses\nTop 5 in any round: 200,000 Diamonds\nTop 25 in any round: 50,000 Diamonds\nTop 50 in any round: 25,000 Diamonds\n\n🚀 Rising Star Bonuses\nTop 5 in any round: 200,000 Diamonds\nTop 25 in any round: 50,000 Diamonds\nTop 50 in any round: 25,000 Diamonds\n\n🎯 Important Details:\nRounds Include:\n\nRound 1\nRound 2\nRound 3\nComeback Round\nGlobal Finale\n\nNote:\nBonus tiers do not stack—only the highest applicable reward will be awarded.\n\n🌟 Let’s make history and light up LIVE Fest together! ✨🙌\n\n#InfinitumLIVEFest #DiamondDash",
     "imageURL": "",
     "links": [],
@@ -31,69 +57,6 @@
         "id": 1,
         "title": "Join the Event",
         "url": "https://discord.com/channels/1083592718321721455/1308612312784961546"
-      }
-    ],
-    "isCompleted": false
-  },
-  {
-    "id": 3,
-    "title": "[November 2024] Guessing Game Challenge",
-    "startDate": "2024-11-13",
-    "endDate": "2024-11-24",
-    "description": "Want to have fun with your gaming community and collect Diamonds during LIVE?\nJoin the Guessing Game Challenge from Nov 13th - 24th!\n\nHow do you participate?\nPost videos, set up guessing games to share reward pools and rank high on the special ranking to win up to 50,000 Diamonds.\n\nYour viewers?\nThey get a chance to collect exclusive gaming stickers by participating in your guessing games.",
-    "imageURL": "",
-    "links": [],
-    "isCompleted": false
-  },
-  {
-    "id": 4,
-    "title": "[November 2024] Giving Thanks On LIVE",
-    "startDate": "2024-11-04",
-    "endDate": "2024-11-17",
-    "description": "Topline:\nIt's the season of 🧡giving thanks and gratitude🧡\n... And what better way to do that than on LIVE!\nWe want to take a moment to celebrate the incredible bond between creators and their viewers. TikTok LIVE has become more than just a platform - it's a community where stories are shared, talents are showcased, and deep connections are made. Our creators inspire us daily and it's all thanks to the viewers who support them!\n\nJoin Giving Thanks on LIVE Campaign and rank on the leaderboard by receiving/sending exclusive campaign gifts and finishing multi-level missions!\n\nDates: Monday November 4th - Sunday November 17th\n\nGameplay:\nThere will be 3 different Creator leaderboards, Pumpkins, Scarecrows, and Turkeys. What leaderboard the Creator is placed on is determined by their LIVE performance in the past 30 days.\nYou will see one of these images on the campaign page that discloses what leaderboard you are on and the 'how to win' information!\n\nRewards:\nThe leaderboards and missions will reset weekly, which means double the chance to win rewards!",
-    "imageURL": "",
-    "links": [
-      {
-        "id": 1,
-        "title": "Warm up",
-        "url": "https://activity-va.tiktok.com/magic/eco/runtime/release/6725333a133bb602bbed42bf?__live_platform__=webcast&appType=webcast&magic_page_no=1&magic_source=live_banner&lang=en-US&region=US&use_spark=1"
-      },
-      {
-        "id": 2,
-        "title": "Campaign Page Link",
-        "url": "https://campaign-va.tiktokv.com/falcon/campaign/fusion_cosmic_runtime/pages/home/index.html?api_env=&__live_platform__=webcast&lang=en&isRTL=0&short_id=1529873667&activityId=7432187817791048453&allowCountries=US&from_feed=true&hide_nav_bar=1&hide_status_bar=1&enter_from=live_square_banner&_pia_=1&v=1"
-      }
-    ],
-    "isCompleted": false
-  },
-  {
-    "id": 6,
-    "title": "Post your honest experience of Infinitum ✨💬 [Get rewarded 💎🎁]",
-    "startDate": "2024-11-05",
-    "endDate": "2024-11-05",
-    "description": "Post an honest video review of your journey with Infinitum LIVE Creator Network—whether good or bad—and get rewarded! 🙌 The creator with the most views, shares, reposts, and referred creators from their video on November 5th will win 10,000 diamonds! 💎✨ Second place gets 7,500 diamonds, and third place will receive 5,000 diamonds.\n\nTo enter, make sure to tag our official account @infinitumcreatornetwork and use the hashtags: #InfinitumLIVECreatorNetwork #TikTokLIVECreatorNetwork #JoinInfinitumCreatorNetwork\n\nWe need at least 50 Participants for the rewards to be distributed\nMAKE SURE TO USE ALL THE HASHTAGS\n\nLink this page for them to apply https://infinitumlive.com/creator-pre-check/ with your username as the referral code.\n\nThat's it!\n\nYour referral code is your username! 🆔🎉 It’s that simple—create your video now and start earning BIG! 💥🚀",
-    "imageURL": "",
-    "links": [
-      {
-        "id": 1,
-        "title": "Apply",
-        "url": "https://infinitumlive.com/creator-pre-check/"
-      }
-    ],
-    "isCompleted": false
-  },
-  {
-    "id": 5,
-    "title": "Infinitum Presents: 2024 Monster Mayhem Melee",
-    "startDate": "2024-10-01",
-    "endDate": "2024-10-31",
-    "description": "https://forms.gle/aC5xKMDVf8ZQmuSB9\n\nGet ready to celebrate this Halloween season with the return of MONSTER MAYHEM MELEE!!!! These are Halloween costume 4 way live matches and you will run 2 match rounds per scheduled melee battle. Participants may not exceed more than 2 scheduled battles per event day. (If you are subbing in for an opponent that didn’t show up and you’re in costume, you can still earn Melee points) The objective is to accumulate as many melee points as possible by Oct 31st. Each group will run the matches as 1vs1vs1vs1 and melee points are awarded based on where you place after each round. Be sure to sign up before Oct 20th 2024 and remember to screenshot your matches each time you complete a match.\n\nPoints per match rounds (2 rounds = 1 melee Battle)\n1st = 5 melee points\n2nd = 4 melee points\n3rd = 3 melee points\n4th = 2 melee points\n\nA scoreboard/leaderboard with everyone’s melee points will be posted at the end of each night or beginning of the next day. All of your accumulative melee points will be added together at the end of the event and there will be a 1st, 2nd and 3rd place winner.\n\n1st place - Large TikTokLIVE hoodie, Creator Hat and TikTok keychain\n2nd place - Creator Hat, TikTokLIVE badge pin\n3rd place - TikTokLIVE Fanny pack, TikTokLIVE keychain",
-    "imageURL": "",
-    "links": [
-      {
-        "id": 1,
-        "title": "Sign-Up Form",
-        "url": "https://forms.gle/aC5xKMDVf8ZQmuSB9"
       }
     ],
     "isCompleted": false
