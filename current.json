@@ -30,31 +30,5 @@
       }
     ],
     "isCompleted": false
-  },
-  {
-    "id": 3,
-    "title": "[December 2024] Delta Force",
-    "startDate": "2024-12-04",
-    "endDate": "2024-12-25",
-    "description": "Time: 12/4 to 12/25\nQualification: play Delta Force LIVE!\nGameplay (see details in the graphic):\nGo LIVE with more than 10 unique viewers to receive drops of in-game rewards\nRank up the weekly leaderboard for TikTok Swags and diamonds\n1 live min playing Delta Force = 20 points, capped at 8 hours daily\n1 short video Delta Force post tagging #DeltaForce = 2,500 points, capped at 1 post daily\n1 unique LIVE viewer during Delta Force live = 1 point (unlimited)\nReceive diamond rewards based on the accumulated unique viewers playing the game LIVE\nViewers of your Delta Force LIVE can collect in-game rewards based on their engagement\nShort video incentive program & post short videos to receive more in-game rewards",
-    "imageURL": "https://example.com/delta_force.jpg",
-    "links": [
-      {
-        "id": 1,
-        "title": "Download Delta Force Game Launcher",
-        "url": "https://www.playdeltaforce.com/download/DeltaForceMiniloader.official.exe"
-      }
-    ],
-    "isCompleted": false
-  },
-  {
-    "id": 2,
-    "title": "[December 2024] Gallery Gift Swap!",
-    "startDate": "2024-12-01",
-    "endDate": "2024-12-08",
-    "description": "From now until December 8th creators can earn Gift Swap cards by lighting up their Gallery Gifts. This is an excellent opportunity to add some fun into Gift Gallery gameplay, especially for those creators who have advanced into Round 3 of Ultimate League (since lit Gallery Gifts are worth 1.5x Ultimate League points😏 )",
-    "imageURL": "https://example.com/gallery_gift_swap.jpg",
-    "links": [],
-    "isCompleted": false
   }
 ]
