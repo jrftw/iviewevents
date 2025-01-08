@@ -1,5 +1,26 @@
 [
   {
+    "id": 2,
+    "title": "Weekly LIVE Creator Showdown Starting Jan 9th 2025",
+    "startDate": "2025-01-09",
+    "endDate": "2025-01-13",
+    "description": "Infinitum's LIVE Creator Showdown 🎉 where creators mingle and showdown to earn more diamonds 💎\n\nStart Time: Thursday Jan 9th, 2025 3PM EST\nEnd Time: Monday Jan 13th, 2025 10PM EST\n\n🔥 Participants:\n• mr.scarecrow66517 (Wanted 3, got 2)\n• theashgraham (Wanted 6, got 5)\n• kadenmattinson (Wanted 8, got 3)\n• rewardyourskinsoap (Wanted 3, got 2)\n• theangryroomateofficial (Matches wanted: 1, got: 1)\n• mr.scarecrow66517 (Matches wanted: 3, got: 2)\n• pitufiitahrican787 (Matches wanted: 1, got: 0)\n• midwestdivers (Matches wanted: 4, got: 4)\n• johnnienevertheless (Matches wanted: 1, got: 0)\n• sexysingleladyt (Matches wanted: 1, got: 1)\n• theashgraham (Matches wanted: 6, got: 5)\n• kadenmattinson (Matches wanted: 8, got: 3)\n• rewardyourskinsoap (Matches wanted: 3, got: 2)\n• thelyons2021 (Matches wanted: 2, got: 2)\n• MaxeyXo (Matches wanted: 4, got: 0)",
+    "imageURL": "https://drive.google.com/drive/folders/13IP-Q4jtlo3OMRKOfY-4tVEsB_h2YSt2",
+    "links": [
+      {
+        "id": 1,
+        "title": "Schedule Link",
+        "url": "https://discord.com/channels/1083592718321721455/1232794918464786553/1326340666531385436"
+      },
+      {
+        "id": 2,
+        "title": "Sign up link for next week",
+        "url": "https://forms.gle/PMj17xG1tioZdUiNA"
+      }
+    ],
+    "isCompleted": false
+  },
+  {
     "id": 1,
     "title": "It's the most wonderful time of the year... 'Tis the LIVE Season!",
     "startDate": "2024-12-11",
