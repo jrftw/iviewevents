@@ -1,5 +1,58 @@
 [
   {
+    "id": 2,
+    "title": "Weekly LIVE Creator Showdown Starting Jan 9th 2025",
+    "startDate": "2025-01-09",
+    "endDate": "2025-01-13",
+    "description": "Infinitum's LIVE Creator Showdown 🎉 where creators mingle and showdown to earn more diamonds 💎\n\nStart Time: Thursday Jan 9th, 2025 3PM EST\nEnd Time: Monday Jan 13th, 2025 10PM EST\n\n🔥 Participants:\n• mr.scarecrow66517 (Wanted 3, got 2)\n• theashgraham (Wanted 6, got 5)\n• kadenmattinson (Wanted 8, got 3)\n• rewardyourskinsoap (Wanted 3, got 2)\n• theangryroomateofficial (Matches wanted: 1, got: 1)\n• mr.scarecrow66517 (Matches wanted: 3, got: 2)\n• pitufiitahrican787 (Matches wanted: 1, got: 0)\n• midwestdivers (Matches wanted: 4, got: 4)\n• johnnienevertheless (Matches wanted: 1, got: 0)\n• sexysingleladyt (Matches wanted: 1, got: 1)\n• theashgraham (Matches wanted: 6, got: 5)\n• kadenmattinson (Matches wanted: 8, got: 3)\n• rewardyourskinsoap (Matches wanted: 3, got: 2)\n• thelyons2021 (Matches wanted: 2, got: 2)\n• MaxeyXo (Matches wanted: 4, got: 0)",
+    "imageURL": "https://media.discordapp.net/attachments/1232794918464786553/1326340666812530859/image.png?ex=677f1281&is=677dc101&hm=dd7968170886f045a23a69c6fb4fc0805d10a549298bbcad34ab8d7c13c0fd17&=&format=webp&quality=lossless&width=1920&height=574",
+    "links": [
+      {
+        "id": 1,
+        "title": "Schedule Link",
+        "url": "https://discord.com/channels/1083592718321721455/1232794918464786553/1326340666531385436"
+      },
+      {
+        "id": 2,
+        "title": "Sign up link for next week",
+        "url": "https://forms.gle/PMj17xG1tioZdUiNA"
+      }
+    ],
+    "isCompleted": true
+  },
+  {
+    "id": 1,
+    "title": "It's the most wonderful time of the year... 'Tis the LIVE Season!",
+    "startDate": "2024-12-11",
+    "endDate": "2025-01-07",
+    "description": "It's the most wonderful time of the year... 'Tis the LIVE Season!\nGet ready to embark on this frosty adventure by completing daily missions that will get more challenging every week during this month-long winter expedition.\nThere will also be special winter themed Gifts to receive during the campaign period to help you jingle all the way to the top of the leaderboard to win rewards each week of the campaign period!\n\nRegistration: Registration opens on December 9th and lasts the whole campaign period. The first 500 creators who register will automatically earn 25,000 leaderboard points!\n\nDates: Wednesday December 11th - Tuesday January 7th\n\nGameplay:\nThere will be 5 different Creator leaderboards: Holly, Mistletoe, Tinsel, Evergreen, and Starlight. What leaderboard the Creator is placed on is determined by their LIVE performance in the past 30 days.\nHolly: 10K - 200K\nMistletoe: 200K - 500K\nTinsel: 500K - 1.6M\nEvergreen: 1.6M - 8M\nStarlight: 8M+\nYou will see an image for each week on the campaign page that discloses what leaderboard you are on and the 'how to win' information -\n\nRewards:\nThe leaderboards and missions will reset weekly, which means more of the chance to win rewards!\nPlease check the campaign page to see your leaderboard's rewards. There is travel and content shoot opportunities for creators in Tinsel, Evergreen, and Starlight leaderboards,",
+    "imageURL": "https://example.com/winter_campaign.jpg",
+    "links": [
+      {
+        "id": 1,
+        "title": "Campaign Page",
+        "url": "https://campaign-va.tiktokv.com/falcon/campaign/fusion_cosmic_runtime/pages/home/index.html?api_env=&__live_platform__=webcast&lang=en&isRTL=0&short_id=1532743171&activityId=7444091286074329912&from_feed=true&hide_nav_bar=1&hide_status_bar=1&enter_from=live_square_banner&_pia_=1&v=1"
+      }
+    ],
+    "isCompleted": false
+  },
+  {
+    "id": 4,
+    "title": "[December 2024] LIVE Fest Host Off",
+    "startDate": "2024-12-11",
+    "endDate": "2025-01-07",
+    "description": "Excited to announce we have a special two-day campaign where YOU can vote to select two creators to host our LIVE Fest US event on January 10, 2025. Don't forget to tune into @tiktoklive_us for our TikTalk LIVE Host Off program December 18, 2025 at 6:00 PM PT to learn more about our nominated hosts!\n\nDates: Wednesday December 11th - Tuesday January 7th\n\nGameplay: Send 1 coin gift to any LIVE room and you will earn 40 votes to vote for our nominated creators!\n\nCampaign Link: https://webcast.tiktok.com/t/ZS682p2JJ/",
+    "imageURL": "",
+    "links": [
+      {
+        "id": 1,
+        "title": "Campaign Link",
+        "url": "https://webcast.tiktok.com/t/ZS682p2JJ/"
+      }
+    ],
+    "isCompleted": false
+  },
+  {
     "id": 3,
     "title": "[December 2024] Delta Force",
     "startDate": "2024-12-04",
