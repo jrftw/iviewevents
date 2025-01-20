@@ -1,6 +1,6 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "title": "Weekly LIVE Creator Showdown Starting Jan 9th 2025",
     "startDate": "2025-01-09",
     "endDate": "2025-01-13",
@@ -21,7 +21,7 @@
     "isCompleted": false
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "It's the most wonderful time of the year... 'Tis the LIVE Season!",
     "startDate": "2024-12-11",
     "endDate": "2025-01-07",
@@ -37,7 +37,7 @@
     "isCompleted": false
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "[December 2024] LIVE Fest Host Off",
     "startDate": "2024-12-11",
     "endDate": "2025-01-07",
@@ -53,7 +53,7 @@
     "isCompleted": false
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "[December 2024] Delta Force",
     "startDate": "2024-12-04",
     "endDate": "2024-12-25",
@@ -69,7 +69,7 @@
     "isCompleted": true
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "[December 2024] Gallery Gift Swap!",
     "startDate": "2024-12-01",
     "endDate": "2024-12-08",
@@ -79,7 +79,7 @@
     "isCompleted": true
   },
   {
-    "id": 1,
+    "id": 6,
     "title": "✨ Infinitum LIVE Creator Network Presents: Category Leader Bonus - LIVE Fest ✨",
     "startDate": "2024-11-19",
     "endDate": "2024-12-05",
@@ -89,7 +89,7 @@
     "isCompleted": false
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "✨ Infinitum LIVE Creator Network Presents: LIVE FEST Bonus Diamonds! ✨",
     "startDate": "2024-11-19",
     "endDate": "2024-12-05",
@@ -99,7 +99,7 @@
     "isCompleted": false
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "💎 Infinitum Campaign - LIVE FEST Dash 💎",
     "startDate": "2024-11-19",
     "endDate": "2024-12-05",
