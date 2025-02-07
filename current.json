@@ -22,5 +22,31 @@
       }
     ],
     "isCompleted": false
+  },
+  {
+    "id": 2,
+    "title": "[February 2025] Are You Our Next Rising Star? :star2::trophy:",
+    "startDate": "2025-02-04",
+    "endDate": "2025-02-10",
+    "description": "Topline: Join in on this week long campaign and complete daily missions to rank on the daily and overall leaderboard! Creators can earn points by completing missions each day. The silver, gold, and platinum leaderboards will refresh daily at 12am PT. The overall leaderboard will be cumulative throughout the whole campaign period and feature all creators. The top 20 of the overall leaderboard at the end of the campaign period will win rewards and the top 1 will be our new rising star with a feature on the next campaign page!\n\nGameplay: Creators with 10k-30k Monthly Diamonds in L30\n\nLeaderboard points:\n- Go live 1 hour = 1000 points\n- Complete 1 match = 1000 points\n- Gain 1 new follower = 500 points\n- 1 diamond = 1 point\n\nDaily Missions:\nSilver Leaderboard:\n- Go live 2.5 hours = 2000 points\n- Receive gifts from 13 gifters = 1000 points\n- Set up 1 LIVE goal = 500 points\n\nGold Leaderboard:\n- Go live 1.5 hours = 2000 points\n- Complete 1 Match = 1000 points\n- Set up 1 LIVE goal = 500 points\n\nPlatinum Leaderboard:\n- Go live 2 hours = 2000 points\n- Use Multi-guest 1 time = 1000 points\n- Set up 1 LIVE goal = 500 points\n\nGameplay: Creators with 30k-80k Monthly Diamonds in L30\n\nLeaderboard points:\n- Go live 1 hour = 1000 points\n- Complete 1 match = 1000 points\n- 1 diamond = 1 point\n- Receive 1 Heart me gift = 2 points\n\nDaily Missions:\nSilver Leaderboard:\n- Go live 2.5 hours = 4000 points\n- Complete 2 Match = 3000 points\n- Receive comments from 35 viewers = 2000 points\n\nGold Leaderboard:\n- Go live 2 hours = 4000 points\n- Use multi-guest 1 time = 3000 points\n- Receive gifts from 40 gifters = 2000 points\n\nPlatinum Leaderboard:\n- Go live 3 hours = 4000 points\n- Receive gifts from 25 gifters = 3000 points\n- Receive comments from 350 viewers = 2000 points\n\nGameplay: Creators with 80k-500k Monthly Diamonds in L30\n\nLeaderboard points:\n- Go live 1 hour = 1000 points\n- Win 1 match = 2000 points\n- 1 diamond = 1 point\n- Receive 1 Heart me gift = 2 points\n\nDaily Missions:\nSilver Leaderboard:\n- Go LIVE using multi-guest for 1.5 hours = 5000 points\n- Receive gifts from 50 gifters = 3000 points\n- Receive comments from 30 viewers = 3000 points\n\nGold Leaderboard:\n- Win Match = 5000 points\n- Receive gifts from 25 gifters = 3000 points\n- Receive comments from 280 viewers = 3000 points\n\nPlatinum Leaderboard:\n- Go live 3 hours = 5000 points\n- Receive gifts from 60 gifters = 4000 points\n- Receive comments from 380 viewers = 4000 points\n\nRewards:\nCreators with 10k-30k Monthly Diamonds\n- 1st place: 50,000 Diamonds\n- 2nd place: 30,000 Diamonds\n- 3rd place: 20,000 Diamonds\n- 4th place: 10,000 Diamonds\n- 5th-10th place: 5,000 Diamonds\n- 11th-15th place: 2,500 Diamonds\n- 16th-20th place: 1,500 Diamonds\n\nCreators with 30k-80k Monthly Diamonds\n- 1st place: 75,000 Diamonds\n- 2nd place: 50,000 Diamonds\n- 3rd place: 30,000 Diamonds\n- 4th place: 15,000 Diamonds\n- 5th-10th place: 7,500 Diamonds\n- 11th-15th place: 5,000 Diamonds\n- 16th-20th place: 2,500 Diamonds\n\nCreators with 80k-500k Monthly Diamonds\n- 1st place: 100,000 Diamonds\n- 2nd place: 75,000 Diamonds\n- 3rd place: 50,000 Diamonds\n- 4th place: 30,000 Diamonds\n- 5th-10th place: 10,000 Diamonds\n- 11th-15th place: 7,500 Diamonds\n- 16th-20th place: 5,000 Diamonds",
+    "imageURL": [],
+    "links": [
+      {
+        "id": 1,
+        "title": "Campaign Page Link (10k-30k)",
+        "url": "https://campaign-va.tiktokv.com/falcon/campaign/fusion_cosmic_runtime/pages/home/index.html?activityId=7463503897690557190&campaign_traffic_id=cptraffic010002sc1000000002879027460&enter_from=live_square_banner&api_env=&lang=en&isRTL=0&short_id=1536214531&__live_platform__=webcast&_pia_=1&from_feed=true&hide_nav_bar=1&hide_status_bar=1&bdhm_bid=tiktok_campaign_component_hybrid"
+      },
+      {
+        "id": 2,
+        "title": "Campaign Page Link (30k-80k)",
+        "url": "https://campaign-va.tiktokv.com/falcon/campaign/fusion_cosmic_runtime/pages/home/index.html?activityId=7467202983356336901&campaign_traffic_id=cptraffic010002sc1000000012094865412&enter_from=live_square_banner&api_env=&lang=en&isRTL=0&short_id=1536396291&__live_platform__=webcast&_pia_=1&from_feed=true&hide_nav_bar=1&hide_status_bar=1&bdhm_bid=tiktok_campaign_component_hybrid"
+      },
+      {
+        "id": 3,
+        "title": "Campaign Page Link (80k-500k)",
+        "url": "https://campaign-va.tiktokv.com/falcon/campaign/fusion_cosmic_runtime/pages/home/index.html?activityId=7467157317998906117&campaign_traffic_id=cptraffic010002sc1000000006571411460&enter_from=live_square_banner&api_env=&lang=en&isRTL=0&short_id=1536709635&__live_platform__=webcast&_pia_=1&from_feed=true&hide_nav_bar=1&hide_status_bar=1&bdhm_bid=tiktok_campaign_component_hybrid"
+      }
+    ],
+    "isCompleted": false
   }
 ]
