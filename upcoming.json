@@ -1,16 +1,32 @@
 [
+  // {
+  //   "id": 1,
+  //   "title": "Upcoming Events",
+  //   "startDate": "2025-01-10",
+  //   "endDate": "2025-01-10",
+  //   "description": "None available yet",
+  //   "imageURL": "https://example.com/upcoming1.jpg",
+  //   "links": [
+  //     {
+  //       "id": 1,
+  //       "title": "More Info",
+  //       "url": "https://example.com/info/upcoming1"
+  //     }
+  //   ],
+  //   "isCompleted": false
+  // },
   {
-    "id": 1,
-    "title": "Upcoming Events",
-    "startDate": "2025-01-10",
-    "endDate": "2025-01-10",
-    "description": "None available yet",
-    "imageURL": "https://example.com/upcoming1.jpg",
+    "id": 2,
+    "title": "Infinitum Presents \"The Diamond Gauntlet\" Tournament",
+    "startDate": "2025-05-28",
+    "endDate": "2025-06-11",
+    "description": "📣 🚨 TOURNAMENT ANNOUNCEMENT 🚨\n🎯 Sign up now: https://docs.google.com/forms/d/e/1FAIpQLSfviZUW4Dw6cE8husz30elvBtXAlpXo_vj_dSivKyt1hT2CjA/viewform\n\n💎 PRIZE POOL HIGHLIGHTS\n🏆 Champion Reward — TikTok Universe (🎁 Worth 44,999 Diamonds)\n🌌 Top Earner Bonus — Interstellar (🌠 Worth 10,000 Diamonds)\n*If Champion is also top earner, Interstellar goes to runner-up!\n\n📅 MATCH SCHEDULE\nRound 1: Wed–Thurs, May 28–29\nRound 2: Mon–Tues, June 2–3\nQuarterfinals: Wed–Thurs, June 4–5\nSemifinals: Friday, June 6\nGrand Final: Wednesday, June 11\n\n👑 Champion Crowned: Thursday, June 11, 2025\n\n📝 IMPORTANT DATES\n📌 Sign-Ups Close: Monday, May 19\n📅 Match Schedule Released: Friday, May 23 by 9 PM PT\n\n🔥 Don’t miss your chance to shine and win BIG!\n💬 Questions? Ask in this channel or DM an admin!",
+    "imageURL": "https://example.com/diamond-gauntlet.jpg",
     "links": [
       {
         "id": 1,
-        "title": "More Info",
-        "url": "https://example.com/info/upcoming1"
+        "title": "Sign Up Form",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfviZUW4Dw6cE8husz30elvBtXAlpXo_vj_dSivKyt1hT2CjA/viewform"
       }
     ],
     "isCompleted": false
